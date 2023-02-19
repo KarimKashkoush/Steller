@@ -275,6 +275,7 @@ header nav ul li:last-child a:hover {
 }
 .landing .numbers .box {
     flex:1;
+    padding:0 3px;
 }
 .landing .numbers .box:not(.numbers .box:last-child){
     border-right: 1px solid ;
